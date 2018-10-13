@@ -7,5 +7,8 @@ curry
 palak curry 
 samosa
 
+pizza
+kadai
+
 thank you :)
 
